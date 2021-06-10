@@ -15,4 +15,3 @@ jobs:
           python 01_prod_regression_ci__tutorial.py
           # Write your CML report
           echo "## Metriques:" >> report.md
-          cat metrics.txt >> report.md
